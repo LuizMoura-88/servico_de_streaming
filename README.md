@@ -68,5 +68,12 @@ desenvolvidos no arquivo JavaScript oferecendo recursos de comandos ao interagir
 * Implemtar um Framework para desenvolviemnto FrontEnd.
 * refatoração de código, baseando-se nos princípios de clean code.
 
+##
+
+
+### ✅  Autor
+Luiz Guilherme da Silva Moura <br/>
+[LinkedIn](https://www.linkedin.com/in/luiz-moura-b60099252/)
+
 
 
