@@ -40,7 +40,7 @@ desenvolvidos no arquivo JavaScript oferecendo recursos de comandos ao interagir
 ##
 
 ### Como rodar o projeto ✅
-* ##### 1° Faça o download do repositório, copie para uma pasta local, abra via IDE (IDE significa Ambiente de Desenvolvimento Integrado.) foi utilizado o VSCODE
+* ##### 1° Faça o download do repositório, copie para uma pasta local, abra esta pasta por uma IDE (Ambiente de Desenvolvimento Integrado) foi utilizado o VSCODE
 
   ![Captura de tela 2024-02-07 161428](https://github.com/LuizMoura-88/servico_de_streaming/assets/122941117/21b8fa4a-7e7b-4d3c-aebd-8569b71ce709)
 ##
