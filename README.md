@@ -4,6 +4,6 @@ Projeto proposto pela escola de tecnologia Cubos Academy, com intuito de constru
 ferramenta HTML para desenvolver a estrutura da página e seus devidos elementos de marcação, posterior a isso foi utilizada a ferramenta de estilização CSS para implementar
 características visuais e oferecer uma boa experiência para o usuário, na 2ª etapa foi utilizada a linguagem de programação JavaScript para interagir dinamicamente manipulando a 
 DOM(Document Object Model) do HTML e em paralelo a esse processo foi utilizado a biblioteca AXIOS para consumir 
-uma API que oferta dados de um serviço de streaming alimentado assim os elementos HTML com seus respectivos valores.
+a  API do The Movie Database (TMDB) que oferta dados de um serviço de streaming alimentado assim os elementos HTML com seus respectivos valores.
 <br>
 ##
