@@ -61,7 +61,7 @@ desenvolvidos no arquivo JavaScript oferecendo recursos de comandos ao interagir
   
 ## ⚠️ Problemas enfrentados
 * Por se tratar do meu primeiro projeto consumindo APIs de terceiros e não ter a devida experiência para otimizar os códigos escritos, a implementação aparenta ter códigos que não necessariamente deveria ser implementados.
-*
+
   
 ## ⏭️ Próximos passos
 
