@@ -65,7 +65,7 @@ desenvolvidos no arquivo JavaScript oferecendo recursos de comandos ao interagir
   
 ## ⏭️ Próximos passos
 
-* Implemtar um Framework para desenvolviemnto FrontEnd.
+* Implementar um Framework para desenvolviemnto FrontEnd.
 * refatoração de código, baseando-se nos princípios de clean code.
 
 ##
