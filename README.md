@@ -15,15 +15,14 @@ desenvolvidos no arquivo JavaScript oferecendo recursos de comandos ao interagir
 - Modal de filme 
 - Mudança de tema
 
+📌 Visitar [WebSite](https://www.youtube.com/)
+
 ##
 
 ### 📌 Layout do Projeto 
 <img width="2152" alt="processo_2" src="https://github.com/LuizMoura-88/servico_de_streaming/assets/122941117/bae50e93-9975-4ae7-97d2-a58c1c1f99d0">
 
-
- 
 ##
-
 
 ### 📌 Tecnologias Utilizadas      
 #### FRONTEND
@@ -57,10 +56,17 @@ desenvolvidos no arquivo JavaScript oferecendo recursos de comandos ao interagir
 * Foi utilizado a biblioteca AXIOS atraves de uma `CDN` [Maiores informações](https://axios-http.com/ptbr/docs/intro)
 * A prentensão foi manter as estruturas de pastas organizadas e claramente identificadas, a comunicação entre arquivos HTML e JavaScript é possível através da declaração de suas respectivas tags em sua ordem correta, para que se viabilize a execução da aplicação corretamente.
 ![Captura de tela 2024-02-07 163116](https://github.com/LuizMoura-88/servico_de_streaming/assets/122941117/e1b0894b-a741-4ca9-a124-561e15a3477a)
-
 ##
-  
 
+  
+## ⚠️ Problemas enfrentados
+* Por se tratar do meu primeiro projeto consumindo APIs de terceiros e não ter a devida experiência para otimizar os códigos escritos, a implementação aparenta ter códigos que não necessariamente deveria ser implementados.
+*
+  
+## ⏭️ Próximos passos
+
+* Implemtar um Framework para desenvolviemnto FrontEnd.
+* refatoração de código, baseando-se nos princípios de clean code.
 
 
 
