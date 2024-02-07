@@ -4,13 +4,23 @@
 Projeto proposto pela escola de tecnologia Cubos Academy, com intuito de construir um website para serviços de streaming. A pagina foi desenvolvido em duas etapas: 1ª foi utilizada a 
 ferramenta HTML para desenvolver a estrutura da página e seus devidos elementos de marcação, posterior a isso foi utilizada a ferramenta de estilização CSS para implementar
 características visuais e oferecer uma boa experiência para o usuário, na 2ª etapa foi utilizada a linguagem de programação JavaScript para interagir dinamicamente manipulando a 
-DOM(Document Object Model) do HTML e em paralelo a esse processo foi utilizado a biblioteca AXIOS para consumir 
-a  API do The Movie Database (TMDB) que oferta dados de um serviço de streaming alimentado assim os elementos HTML com seus respectivos valores. Atraves
-<br>
+DOM(Document Object Model) do HTML e em paralelo a esse processo foi utilizado a biblioteca AXIOS para consumir a  API do The Movie Database (TMDB) que oferta dados de um serviço de 
+streaming alimentado assim os elementos HTML com seus respectivos valores. O website se torna dinâmico por meio de  blocos de códigos funcionais 
+desenvolvidos no arquivo JavaScript oferecendo recursos de comandos ao interagir com a página, são eles:
+
+- Visualização de filmes 
+- Paginação de filmes 
+- Busca de filmes 
+- "Filme do dia" 
+- Modal de filme 
+- Mudança de tema
+
 ##
 
 ### 📌 Layout do Projeto 
- <img width="900" height="400" alt="processo" src="https://github.com/LuizMoura-88/servico_de_streaming/assets/122941117/47ef2464-37eb-494f-aa9d-5608c7ca58fd"> 
+<img width="2152" alt="processo_2" src="https://github.com/LuizMoura-88/servico_de_streaming/assets/122941117/bae50e93-9975-4ae7-97d2-a58c1c1f99d0">
+
+
  
 ##
 
