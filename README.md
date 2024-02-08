@@ -15,7 +15,7 @@ desenvolvidos no arquivo JavaScript oferecendo recursos de comandos ao interagir
 - Modal de filme 
 - Mudança de tema
 
-🌐 [Visitar - WebSite](https://www.youtube.com/)
+🌐 [Visitar - WebSite](https://servico-de-streaming.vercel.app/)
 
 ##
 
